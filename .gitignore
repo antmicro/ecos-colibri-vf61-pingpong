@@ -1,12 +1,12 @@
 # Object files
-*.o
+#*.o
 *.ko
 *.obj
 *.elf
 
 # Libraries
 *.lib
-*.a
+#*.a
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -18,6 +18,5 @@
 *.exe
 *.out
 *.app
-*.i*86
-*.x86_64
 *.hex
+*.bin
